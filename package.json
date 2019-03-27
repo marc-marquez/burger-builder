@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://marc-marquez.github.io/burger-builder/",
   "dependencies": {
+    "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
